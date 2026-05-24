@@ -1,0 +1,21 @@
+# Virtual Environment
+ll_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+
+# Django stuff
+*.log
+
+# Mac/Linux junk
+.DS_Store
