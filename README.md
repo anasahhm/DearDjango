@@ -1,6 +1,6 @@
-# Logoshelf
+# DearDjango
  
-A web application built with Django that lets users track topics they're learning about and make journal entries as they learn. Each user has a private log — only they can see and manage their own topics and entries.
+A web application built with Django that lets users track topics they're learning about and make journal entries as they learn. Each user has a private log - only they can see and manage their own topics and entries.
  
 ---
  
@@ -29,8 +29,8 @@ A web application built with Django that lets users track topics they're learnin
 ### 1. Clone the repository
  
 ```bash
-git clone https://github.com/anasahhm/logoshelf.git
-cd logoshelf
+git clone https://github.com/anasahhm/DearDjango.git
+cd DearDjango
 ```
  
 ### 2. Create and activate a virtual environment
